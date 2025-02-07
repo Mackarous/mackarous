@@ -12,3 +12,4 @@ Feel free to reach out if you want to collaborate on iOS projects, share ideas o
 
 - 🧵 Threads: [@swift.mackarous](https://www.threads.net/@swift.mackarous)
 - 🦋 Bluesky: [@swift.mackarous.com](https://bsky.app/profile/swift.mackarous.com)
+- 🐘 Mastodon: [@mackarous@mastodon.social](https://mastodon.social/@mackarous) or [@mackarous@mstdn.ca](https://mstdn.ca/@mackarous)
