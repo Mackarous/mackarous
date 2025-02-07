@@ -10,5 +10,6 @@ I've been a mobile dev since 2012. I started on Android, but now mostly do iOS.
 
 Feel free to reach out if you want to collaborate on iOS projects, share ideas on SwiftUI, or just talk about tech and wellness!
 
-- 🧵 Threads: [@swift.mackarous](https://www.threads.net/@swift.mackarous)
-- 🦋 Bluesky: [@swift.mackarous.com](https://bsky.app/profile/swift.mackarous.com)
+- 🧵 Threads: [@swift.mackarous](https://www.threads.net/@swift.mackarous) or [@mackarous](https://www.threads.net/@mackarous)
+- 🦋 Bluesky: [@swift.mackarous.com](https://bsky.app/profile/swift.mackarous.com) or [@andrew.mackarous.com](https://bsky.app/profile/andrew.mackarous.com)
+- 🐘 Mastodon: [@mackarous@mastodon.social](https://mastodon.social/@mackarous) or [@mackarous@mstdn.ca](https://mstdn.ca/@mackarous)
